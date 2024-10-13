@@ -1,0 +1,61 @@
+[
+  {
+    "nome": "Huan Carlos",
+    "idade": 20,
+    "notas": {
+      "n1": 5,
+      "n2": 7,
+      "n3": 10
+    },
+    "frequencia": [
+      1,1,0,1,1,0,1,1,1,1
+    ]
+  },
+  {
+    "nome": "Janaina Freitas",
+    "idade": 23,
+    "notas": {
+      "n1": 3,
+      "n2": 8,
+      "n3": 7
+    },
+    "frequencia": [
+      1,1,0,1,1,1,1,1,1,1
+    ]
+  },{
+    "nome": "Arivane Saraiva",
+    "idade": 18,
+    "notas": {
+      "n1": 10,
+      "n2": 6,
+      "n3": 10
+    },
+    "frequencia": [
+      1,1,0,1,1,0,1,1,1,0
+    ]
+  },
+  {
+    "nome": "Lidia Cantuaria",
+    "idade": 32,
+    "notas": {
+      "n1": 8,
+      "n2": 9,
+      "n3": 8
+    },
+    "frequencia": [
+      1,1,1,1,1,1,1,1,1,1
+    ]
+  },
+  {
+    "nome": "Laura Saraiva",
+    "idade": 1,
+    "notas": {
+      "n1": 6,
+      "n2": 7,
+      "n3": 10
+    },
+    "frequencia": [
+      0,1,1,1,1,1,1,0,1,1
+    ]
+  }
+]
