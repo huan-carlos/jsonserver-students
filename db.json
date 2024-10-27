@@ -1,0 +1,34 @@
+{
+  [
+     {
+        "nome": "Huan Carlos",
+        "idade": 20,
+        "notas": [5,7,10],
+        "frequencia": [1,1,0,1,1,0,1,1,1,1]
+     },
+     {
+        "nome": "Janaina Freitas",
+        "idade": 23,
+        "notas": [3,8,7],
+        "frequencia": [1,1,0,1,1,1,1,1,1,1]
+     },
+     {
+        "nome": "Arivane Saraiva",
+        "idade": 18,
+        "notas": [10,6,10],
+        "frequencia": [1,1,0,1,1,0,1,1,1,0]
+     },
+     {
+        "nome": "Lidia Cantuaria",
+        "idade": 32,
+        "notas": [8,9,8],
+        "frequencia": [1,1,1,1,1,1,1,1,1,1]
+     },
+     {
+        "nome": "Laura Saraiva",
+        "idade": 1,
+        "notas": [6,7,10],
+        "frequencia":[0,1,1,1,1,1,1,0,1,1]
+     }
+  ]
+}
