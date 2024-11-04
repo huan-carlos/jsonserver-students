@@ -9,7 +9,7 @@
      {
         "nome": "Janaina Freitas",
         "idade": 23,
-        "notas": [3,8,7],
+        "notas": [3,8,6],
         "frequencia": [1,1,0,1,1,1,1,1,1,1]
      },
      {
@@ -22,7 +22,7 @@
         "nome": "Lidia Cantuaria",
         "idade": 32,
         "notas": [8,9,8],
-        "frequencia": [1,1,1,1,1,1,1,1,1,1]
+        "frequencia": [1,1,1,1,1,1,0,0,0,0]
      },
      {
         "nome": "Laura Saraiva",
